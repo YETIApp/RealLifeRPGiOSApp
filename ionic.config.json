@@ -1,0 +1,7 @@
+{
+  "name": "RealLifeRPG",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
